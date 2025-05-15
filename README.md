@@ -67,9 +67,3 @@ information and release year information and get the mode of difference. This
 will give an insight into what will be the better time to add in Netflix
 ______________________________________________________________________________
 
-
-## Dataset
-
-The data for this project is sourced from the Kaggle dataset:
-
-- **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
