@@ -67,3 +67,25 @@ information and release year information and get the mode of difference. This
 will give an insight into what will be the better time to add in Netflix
 ______________________________________________________________________________
 
+Insights:
+
+The Box plot comparing 'TV Shows and Movies by rating' suggests that TV Shows tend to have a wider range of ratings, indicating a more diverse viewer base with mixed opinions. In contrast, Movies show higher consistency in ratings, possibly due to selective audience targeting. Extreme outliers in movies may indicate strong reactions (both positive and negative), while TV shows likely appeal to a more stable audience.
+From the plot of Number of Movies and TV Shows Released Each Year, TV shows show a sharper increase in the number of additions, it indicates that Netflix has been focusing more on episodic content recently. This aligns with broader industry trends where streaming services see TV shows as a tool to boost user engagement and retention compared to one-time movie viewing.
+Count plot for rating and type shows the precise counts for each category like movies are higher in type than Tv Shows and TV-MA is higher in rating, and this plot is useful for reports or descriptive statistics. Specific countries like the United States, India, and the United Kingdom lead in content production.
+Heat map correlation shows the number of Movies & TV shows that loaded for each year.
+The bar plot comparing the 'top 10 countries producing Movies vs. TV Shows' provides valuable insights of understanding that the which countries need to focus more on movies and TV shows.
+Line plot of 'Weekly Release Trend for TV Shows and Movies' shows the peaks in certain weeks(e.g., around holidays, weekends, or special events, it indicate that audiences are more engaged at these times. Releasing content during these peaks could maximize audience reach and viewership.
+Line plot of 'Monthly Release Trend for TV Shows and Movies' shows months with higher release volumes indicate seasonality(e.g., winter months, summer for family-friendly content, holidays for block bluster releases). Launching during these months could benefit from a larger audience and better competition positioning.
+From the word cloud insights the popular genres are International movies, Dramas, Tv Shows, Documentaries, Comedies  indicating high viewer demand.
+Movies are mostly added to Netflix one to two years i.e., 438 days after their release. Understanding this timeline helps strategize release schedules.
+
+Recommendations:
+
+Align new releases with periods of high viewer activity (e.g., December) for maximum engagement.
+Invest in partnerships with top-performing directors and actors to produce exclusive content that attracts their fanbase.
+Negotiate shorter delays for adding movies post-release to maintain freshness in content offerings.
+ Expand content from emerging markets (e.g., South Korea, Spain) to cater to global audiences appreciating diverse cultural narratives.
+Explore tiered subscription models offering discounts for users who primarily consume regional or older content, expanding affordability.
+Analyze real-time viewing data during releases to adjust marketing efforts dynamically, ensuring optimal reach.
+Introduce more short-duration content (e.g., web series or mini-documentaries) to attract younger audiences with shorter attention spans.
+
